@@ -9,6 +9,7 @@
 
 int main(void) {
     printf("Hello world!\n");
+    printf("Hello this is a second line!\n");
     return 0;
 }
 
