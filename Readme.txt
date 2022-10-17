@@ -4,3 +4,5 @@ El directorio contendrá algunos códigos en C los cuales se irán actualizando 
 
 Nombre del alumno: Brandon Mendoza
 Fecha de hoy 16 de octubre 2022
+
+Cambio realizado desde Git hub. 
