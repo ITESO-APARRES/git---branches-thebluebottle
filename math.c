@@ -5,8 +5,7 @@
 //  Created by Brandon Mendoza Medina on 16/10/22.
 //
 
-#include <stdio.h>
-#include <math.h>
+#include "math.h"
 
 int dobleInt(int a) {
     if(a > MAX_INT) {
