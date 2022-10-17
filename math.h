@@ -9,7 +9,9 @@
 #define math_h
 
 #define MAX_INT (2^sizeof(int))/2
+#define MAX_DOUBLE ((2sizeof(double))/2
 
 int dobleInt(int a);
+double dobleDouble(double a);
 
 #endif /* math_h */
